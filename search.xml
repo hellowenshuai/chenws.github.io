@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>demo1</title>
-    <url>/2021/07/27/demo1/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>demo2</title>
     <url>/2021/07/27/demo2-1/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>demo2</title>
-    <url>/2021/07/27/demo2/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>demo3</title>
-    <url>/2021/07/27/demo3/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>demo6</title>
-    <url>/2021/07/27/demo6/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -31,13 +11,43 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>demo1</title>
+    <url>/2021/07/27/demo1/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>demo2</title>
+    <url>/2021/07/27/demo2/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>demo5</title>
     <url>/2021/07/27/demo5/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>demo3</title>
+    <url>/2021/07/27/demo3/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>demo7</title>
     <url>/2021/07/27/demo7/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>demo6</title>
+    <url>/2021/07/27/demo6/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>demo8</title>
+    <url>/2021/07/27/demo8/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>demo9</title>
+    <url>/2021/07/27/demo9/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -57,15 +67,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>demo8</title>
-    <url>/2021/07/27/demo8/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>demo9</title>
-    <url>/2021/07/27/demo9/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
